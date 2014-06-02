@@ -1,0 +1,34 @@
+# -*- coding: utf-8 -*-
+#Author: @SVAKSHA, Monday 02 June 2014 08:05:17 PM IST 
+
+# LOGS
+#=====
+*.log
+*error_log.txt
+
+#DVCS
+#=====
+*.hg/
+
+#Databases/DB Ignore
+#==================
+*.sql
+*.sqlite
+db_connect.php
+
+
+#Environment Banner
+#==================
+template.php
+
+#LDAP - ldap_start_tls() error
+login.php
+
+#cake
+tmp/*
+[Cc]onfig/core.php
+[Cc]onfig/database.php
+app/tmp/*
+app/[Cc]onfig/core.php
+app/[Cc]onfig/database.php
+!empty

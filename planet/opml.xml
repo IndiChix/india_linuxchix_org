@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>Planet LinuxChix India</title>
+		<dateModified>Wed, 21 Nov 2012 03:00:09 +0000</dateModified>
+		<ownerName>Ketan Padegaonkar</ownerName>
+		<ownerEmail>ketanpadegaonkar@gmail.com</ownerEmail>
+	</head>
+	
+	<body>
+		<outline type="rss" text="All things technical..." xmlUrl="http://meworkstoo.blogspot.com/feeds/posts/default" title="All things technical..." />
+		<outline type="rss" text="Amrita Mukherjee" xmlUrl="http://amrita.dgplug.org/?feed=rss2" title="Amrita" />
+		<outline type="rss" text="Ani Peter" xmlUrl="http://anipeter.blogspot.com/feeds/posts/default" title="Tending my language" />
+		<outline type="rss" text="Ankita Garg" xmlUrl="http://ankis-world.blogspot.com/feeds/posts/default" title="Random figments" />
+		<outline type="rss" text="Archu's Cyberspace...!" xmlUrl="http://archu.wordpress.com/feed/" title="Archu's Cyberspace...!" />
+		<outline type="rss" text="Certified crazy" xmlUrl="http://barkha.in/blog/feed/atom/" title="Certified crazy" />
+		<outline type="rss" text="Hold Open The Glass Door...Please" xmlUrl="http://runab.livejournal.com/data/atom" title="Hold Open The Glass Door...Please" />
+		<outline type="rss" text="Independent, Passionate, dedicated but unpredictable" xmlUrl="http://pooja.livejournal.com/data/atom" title="Independent, Passionate, dedicated but unpredictable" />
+		<outline type="rss" text="Netra's Weblog" xmlUrl="http://netra.wordpress.com/feed/" title="Netra's Weblog" />
+		<outline type="rss" text="Open Source Buzz" xmlUrl="http://opensourcebuzz.technetra.com/feed/" title="Open Source Buzz" />
+		<outline type="rss" text="Ria  With  Python" xmlUrl="http://riadas.wordpress.com/feed/" title="Ria  With  Python" />
+		<outline type="rss" text="Stainless" xmlUrl="http://steila.livejournal.com/data/atom" title="Stainless" />
+		<outline type="rss" text="YAB: Yet Another Blog" xmlUrl="http://thisisyab.blogspot.com/feeds/posts/default" title="YAB: Yet Another Blog" />
+		<outline type="rss" text="kadambarid" xmlUrl="http://kadambarid.livejournal.com/data/atom/" title="kadambarid" />
+		<outline type="rss" text="॥ स्वक्ष ॥ svaksha" xmlUrl="http://svaksha.com/feed/rss2" title="॥ स्वक्ष ॥ svaksha" />
+	</body>
+</opml>

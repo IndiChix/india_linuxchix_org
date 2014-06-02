@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:rss="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<foaf:Group>
+	<foaf:name>Planet LinuxChix India</foaf:name>
+	<foaf:homepage>http://india.linuxchix.org/planet</foaf:homepage>
+	<rdfs:seeAlso rdf:resource="http://india.linuxchix.org/planet/foafroll.xml" />
+
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>All things technical...</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://meworkstoo.blogspot.com/">
+					<dc:title>All things technical...</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://meworkstoo.blogspot.com/feeds/posts/default" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Amrita Mukherjee</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://amrita.dgplug.org">
+					<dc:title>Amrita</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://amrita.dgplug.org/?feed=rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Ani Peter</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://anipeter.blogspot.com/">
+					<dc:title>Tending my language</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://anipeter.blogspot.com/feeds/posts/default" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Ankita Garg</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://ankis-world.blogspot.com/">
+					<dc:title>Random figments</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://ankis-world.blogspot.com/feeds/posts/default" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Archu's Cyberspace...!</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://archu.wordpress.com">
+					<dc:title>Archu's Cyberspace...!</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://archu.wordpress.com/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Certified crazy</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://barkha.in/blog">
+					<dc:title>Certified crazy</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://barkha.in/blog/feed/atom/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Hold Open The Glass Door...Please</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://runab.livejournal.com/">
+					<dc:title>Hold Open The Glass Door...Please</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://runab.livejournal.com/data/atom" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Independent, Passionate, dedicated but unpredictable</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://pooja.livejournal.com/">
+					<dc:title>Independent, Passionate, dedicated but unpredictable</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://pooja.livejournal.com/data/atom" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Netra's Weblog</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://netra.wordpress.com">
+					<dc:title>Netra's Weblog</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://netra.wordpress.com/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Open Source Buzz</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://opensourcebuzz.technetra.com">
+					<dc:title>Open Source Buzz</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://opensourcebuzz.technetra.com/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Ria  With  Python</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://riadas.wordpress.com">
+					<dc:title>Ria  With  Python</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://riadas.wordpress.com/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Stainless</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://steila.livejournal.com/">
+					<dc:title>Stainless</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://steila.livejournal.com/data/atom" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>YAB: Yet Another Blog</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://thisisyab.blogspot.com/">
+					<dc:title>YAB: Yet Another Blog</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://thisisyab.blogspot.com/feeds/posts/default" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>kadambarid</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://kadambarid.livejournal.com/">
+					<dc:title>kadambarid</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://kadambarid.livejournal.com/data/atom/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>॥ स्वक्ष ॥ svaksha</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://svaksha.com/">
+					<dc:title>॥ स्वक्ष ॥ svaksha</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://svaksha.com/feed/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+
+</foaf:Group>
+</rdf:RDF>
