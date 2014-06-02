@@ -20,6 +20,13 @@ db_connect.php
 #Environment Banner
 #==================
 template.php
+LocalTestSettings.php
+*~
+bin
+.classpath
+.project
+project.index
+
 
 #LDAP - ldap_start_tls() error
 login.php
@@ -32,3 +39,5 @@ app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 !empty
+
+
