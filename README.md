@@ -5,10 +5,9 @@ Welcome to IndiChix, the Indian chapter of [Linuxchix](http://linuxchix.org). Th
 * IRC:: #indichix @ irc.linuxchix.org (server) 
 
 ### Mirrors
-Currently, we have two mirrors:
+Currently, there are two mirrors:
 
-* [BitBucket](https://bitbucket.org/indichix/india_linuxchix_org) :: git clone git@bitbucket.org:indichix/india_linuxchix_org.git
 * [GitLab](https://gitlab.com/indichix/india_linuxchix_org) :: git clone git@gitlab.com:indichix/india_linuxchix_org.git
-
+* [Cloudhost](https://git.cloudhost.io/indichix/india_linuxchix_org) :: git clone git@git.cloudhost.io:indichix/india_linuxchix_org.git
 
 
